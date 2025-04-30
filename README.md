@@ -1,6 +1,6 @@
 # Marketplace DApp
 
-A simple E-voting Decentralised App using the Ethereum Blockchain, Solidity and the MERN(MongoDB, Express.js, ReactJS, Node.js) stack
+A simple Marketplace Decentralised App using the Ethereum Blockchain, Solidity and the MERN(MongoDB, Express.js, ReactJS, Node.js) stack
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaBZJ-VFnDKbUbDKJfIIFhgYhBvVH1_eDtA&usqp=CAU" height="200px" width="280px"/>
 
@@ -8,11 +8,11 @@ A simple E-voting Decentralised App using the Ethereum Blockchain, Solidity and 
 
 ## About the D-App
 
-The E-Voting app has 2 main users:
+The Marketplace app has 2 main users:
 1. Admin 
 2. Buyer
 
-Admin can create an election and add candidates to the Ethereum Blockchain
+Admin can and add products to the Ethereum Blockchain
 
 Users(Buyers) can select a marketplace app and buy for a products of their choice
 
